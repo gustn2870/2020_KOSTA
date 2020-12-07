@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T01:40:46.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VlAsX6FS_DjXqD95adrc" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T01:41:35.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3Rj_0I1fOHP3jdqzf3PH" version="13.10.9" type="github">
   <diagram id="LD2kW7Q1F-b_KuxG6Wdx" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,6 +97,12 @@
             <mxPoint x="420" y="130" as="sourcePoint" />
             <mxPoint x="465" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YIFd1UjDGOpdddoTSznZ-44" value="로그인 정보" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YIFd1UjDGOpdddoTSznZ-45" value="로그인 정보" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="280" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
