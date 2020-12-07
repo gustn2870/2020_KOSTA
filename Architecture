@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T01:51:36.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OMkKHfer5VVjvTZt9e2m" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T01:51:49.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="GfSJechm3WcpmyEKVB8v" version="13.10.9" type="github">
   <diagram id="B8itZLEAz9lhxkqDziT5" name="Page-1">
     <mxGraphModel dx="1865" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-100.5" y="70" width="1031" height="230" as="geometry" />
         </mxCell>
         <mxCell id="gG1yH2OSAhd464YKpFXv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="350" width="900" height="150" as="geometry" />
+          <mxGeometry x="-90" y="350" width="990" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gG1yH2OSAhd464YKpFXv-2" value="Raspberry Pi" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="390" width="120" height="80" as="geometry" />
