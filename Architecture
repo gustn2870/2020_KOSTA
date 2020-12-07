@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T03:27:17.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gb3-5cgNGcHGonHnI5ZB" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T03:45:13.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z0lZ5zZDZeIKo7-4z8kI" version="13.10.9" type="github">
   <diagram id="B8itZLEAz9lhxkqDziT5" name="Page-1">
-    <mxGraphModel dx="2036" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,19 +43,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gG1yH2OSAhd464YKpFXv-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="280" width="70" height="60" as="geometry" />
+          <mxGeometry x="290" y="280" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gG1yH2OSAhd464YKpFXv-12" value="Spring, Java, Tomcat 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gG1yH2OSAhd464YKpFXv-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Spring, Java, Tomcat 9&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="110" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gG1yH2OSAhd464YKpFXv-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
           <mxGeometry x="379" y="35" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gG1yH2OSAhd464YKpFXv-14" value="Web Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="gG1yH2OSAhd464YKpFXv-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Web Application&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="19" y="-130" width="790" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="gG1yH2OSAhd464YKpFXv-16" value="MQTT (Wi-Fi 통신)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="300" width="120" height="40" as="geometry" />
+        <mxCell id="gG1yH2OSAhd464YKpFXv-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;MQTT (Wi-Fi 통신)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gG1yH2OSAhd464YKpFXv-17" value="Raspberry Pi" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="120" height="80" as="geometry" />
@@ -63,7 +63,7 @@
         <mxCell id="gG1yH2OSAhd464YKpFXv-18" value="Arduino" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gG1yH2OSAhd464YKpFXv-19" value="AWS - Amazon Rekognition" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gG1yH2OSAhd464YKpFXv-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;AWS - Amazon Rekognition&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="110" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gG1yH2OSAhd464YKpFXv-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=35.4;flipH=1;notch=0;" vertex="1" parent="1">
@@ -78,7 +78,7 @@
         <mxCell id="gG1yH2OSAhd464YKpFXv-23" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Paas-TA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gG1yH2OSAhd464YKpFXv-26" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gG1yH2OSAhd464YKpFXv-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;MySQL&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="110" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gG1yH2OSAhd464YKpFXv-27" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Database&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -158,6 +158,9 @@
             <mxPoint x="435" y="470" as="sourcePoint" />
             <mxPoint x="490" y="455" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gG1yH2OSAhd464YKpFXv-51" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="495" y="280" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
