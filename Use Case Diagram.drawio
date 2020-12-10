@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T03:30:37.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BGnk8ZmWJ-Bx5SJW2ut-" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T05:32:49.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wXvwOx0hiFIj2DKrmTvQ" version="14.0.0" type="github">
   <diagram id="LD2kW7Q1F-b_KuxG6Wdx" name="Page-1">
     <mxGraphModel dx="1209" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,9 +18,14 @@
         <mxCell id="YIFd1UjDGOpdddoTSznZ-4" value="개인 회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="155" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YIFd1UjDGOpdddoTSznZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YIFd1UjDGOpdddoTSznZ-5" edge="1">
+        <mxCell id="YIFd1UjDGOpdddoTSznZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="90" y="140" as="targetPoint" />
+            <mxPoint x="120" y="310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="120" y="310" />
+              <mxPoint x="90" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YIFd1UjDGOpdddoTSznZ-5" value="기관 회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
