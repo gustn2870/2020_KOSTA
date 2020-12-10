@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T05:38:31.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YgwjZQSWCoiyE7MEKfCB" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T05:39:32.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gdVHUf9K1jMYeM681VQp" version="14.0.0" type="github">
   <diagram id="LD2kW7Q1F-b_KuxG6Wdx" name="Page-1">
-    <mxGraphModel dx="2651" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,22 +39,22 @@
           <mxGeometry x="220" y="200" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YIFd1UjDGOpdddoTSznZ-26" value="전기&lt;span style=&quot;font-family: &amp;#34;맑은 고딕&amp;#34; ; font-size: 12pt ; letter-spacing: 0pt&quot;&gt;·&lt;/span&gt;&lt;span&gt;가스 기기 상태 확인&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="50" width="160" height="50" as="geometry" />
+          <mxGeometry x="330" y="80" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YIFd1UjDGOpdddoTSznZ-27" value="각 기관별&lt;span style=&quot;font-family: &amp;#34;맑은 고딕&amp;#34; ; font-size: 12pt ; letter-spacing: 0pt&quot;&gt;·&lt;/span&gt;&lt;span&gt;층별 온습도 확인&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="350" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIFd1UjDGOpdddoTSznZ-40" value="냉&lt;span style=&quot;font-family: &amp;#34;맑은 고딕&amp;#34; ; font-size: 12pt ; letter-spacing: 0pt&quot;&gt;·&lt;/span&gt;&lt;span&gt;난방기 제어(on/off)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="434" y="470" width="140" height="70" as="geometry" />
+          <mxGeometry x="450" y="430" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YIFd1UjDGOpdddoTSznZ-42" value="전기&lt;span style=&quot;font-family: &amp;#34;맑은 고딕&amp;#34; ; font-size: 12pt ; letter-spacing: 0pt&quot;&gt;·&lt;/span&gt;&lt;span&gt;가스 기기 제어(on/off)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="675" y="50" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cLaaMCYmE8FNEJEdcuEW-1" value="출입자 정보 확인" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="465" y="140" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cLaaMCYmE8FNEJEdcuEW-4" value="위험 인물 신고" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="160" width="150" height="70" as="geometry" />
+          <mxGeometry x="660" y="170" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nW_thA2zBcxkcYZKPq3H-2" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YIFd1UjDGOpdddoTSznZ-26" target="YIFd1UjDGOpdddoTSznZ-42">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -80,7 +80,7 @@
             <mxPoint x="329" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nW_thA2zBcxkcYZKPq3H-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YIFd1UjDGOpdddoTSznZ-27" target="YIFd1UjDGOpdddoTSznZ-25">
+        <mxCell id="nW_thA2zBcxkcYZKPq3H-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="1" source="YIFd1UjDGOpdddoTSznZ-27" target="YIFd1UjDGOpdddoTSznZ-25">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="410" y="350" as="sourcePoint" />
             <mxPoint x="570" y="350" as="targetPoint" />
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nW_thA2zBcxkcYZKPq3H-12" value="출입자 사진 저장" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="285" width="130" height="70" as="geometry" />
+          <mxGeometry x="574" y="290" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nW_thA2zBcxkcYZKPq3H-14" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;exitX=0.792;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cLaaMCYmE8FNEJEdcuEW-1" target="nW_thA2zBcxkcYZKPq3H-12">
           <mxGeometry width="160" relative="1" as="geometry">
